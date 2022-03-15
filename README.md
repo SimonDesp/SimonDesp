@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+📫 How to reach me : simon.desplan@gmail.com
+💼 I'm currently looking for a job as a front-end-developer 👉 www.linkedin.com/in/simon-desplan
+
 <!--
 **simonde24/simonde24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
