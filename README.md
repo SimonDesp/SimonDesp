@@ -1,3 +1,5 @@
+# A passionate front-end developer from France 🇫🇷
+
 ### Hi there 👋
 
 
