@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-📫 How to reach me : simon.desplan@gmail.com
+📫 How to reach me : simon.desplan@gmail.com 
 💼 I'm currently looking for a job as a front-end-developer 👉 www.linkedin.com/in/simon-desplan
 
 <!--
